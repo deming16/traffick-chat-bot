@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/deming16/traffick-chat-bot/issues"
   },
-  "homepage": "https://github.com/deming16/traffick-chat-bot#readme"
+  "homepage": "https://github.com/deming16/traffick-chat-bot#readme",
+  "dependencies": {
+    "botbuilder-adapter-facebook": "^1.0.8"
+  }
 }
